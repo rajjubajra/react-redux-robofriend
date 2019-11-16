@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rajjubajra/react-redux-robofriend.git/static/css/main.0bfdb68b.chunk.css",
+    "main.js": "/rajjubajra/react-redux-robofriend.git/static/js/main.2ac73997.chunk.js",
+    "main.js.map": "/rajjubajra/react-redux-robofriend.git/static/js/main.2ac73997.chunk.js.map",
+    "runtime-main.js": "/rajjubajra/react-redux-robofriend.git/static/js/runtime-main.ed37008e.js",
+    "runtime-main.js.map": "/rajjubajra/react-redux-robofriend.git/static/js/runtime-main.ed37008e.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/rajjubajra/react-redux-robofriend.git/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.d8323dc2.chunk.js": "/rajjubajra/react-redux-robofriend.git/static/js/2.d8323dc2.chunk.js",
+    "static/js/2.d8323dc2.chunk.js.map": "/rajjubajra/react-redux-robofriend.git/static/js/2.d8323dc2.chunk.js.map",
+    "index.html": "/rajjubajra/react-redux-robofriend.git/index.html",
+    "precache-manifest.45c3f9856b357ef6c2e854ab1a20bc04.js": "/rajjubajra/react-redux-robofriend.git/precache-manifest.45c3f9856b357ef6c2e854ab1a20bc04.js",
+    "service-worker.js": "/rajjubajra/react-redux-robofriend.git/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/rajjubajra/react-redux-robofriend.git/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.0bfdb68b.chunk.css.map": "/rajjubajra/react-redux-robofriend.git/static/css/main.0bfdb68b.chunk.css.map",
+    "static/media/App.css": "/rajjubajra/react-redux-robofriend.git/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed37008e.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.d8323dc2.chunk.js",
+    "static/css/main.0bfdb68b.chunk.css",
+    "static/js/main.2ac73997.chunk.js"
+  ]
+}
