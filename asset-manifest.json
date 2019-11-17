@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-redux-robofriend/static/css/main.ddb45eab.chunk.css",
-    "main.js": "/react-redux-robofriend/static/js/main.6a65d9ed.chunk.js",
-    "main.js.map": "/react-redux-robofriend/static/js/main.6a65d9ed.chunk.js.map",
+    "main.js": "/react-redux-robofriend/static/js/main.e6fc783a.chunk.js",
+    "main.js.map": "/react-redux-robofriend/static/js/main.e6fc783a.chunk.js.map",
     "runtime-main.js": "/react-redux-robofriend/static/js/runtime-main.63cd0849.js",
     "runtime-main.js.map": "/react-redux-robofriend/static/js/runtime-main.63cd0849.js.map",
     "static/css/2.eb45ad44.chunk.css": "/react-redux-robofriend/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.d8323dc2.chunk.js": "/react-redux-robofriend/static/js/2.d8323dc2.chunk.js",
-    "static/js/2.d8323dc2.chunk.js.map": "/react-redux-robofriend/static/js/2.d8323dc2.chunk.js.map",
+    "static/js/2.fbad7c07.chunk.js": "/react-redux-robofriend/static/js/2.fbad7c07.chunk.js",
+    "static/js/2.fbad7c07.chunk.js.map": "/react-redux-robofriend/static/js/2.fbad7c07.chunk.js.map",
     "index.html": "/react-redux-robofriend/index.html",
-    "precache-manifest.2506debf943b453752791d0f0635024c.js": "/react-redux-robofriend/precache-manifest.2506debf943b453752791d0f0635024c.js",
+    "precache-manifest.3d0279dcf13a8d1fcad16cc77575709f.js": "/react-redux-robofriend/precache-manifest.3d0279dcf13a8d1fcad16cc77575709f.js",
     "service-worker.js": "/react-redux-robofriend/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/react-redux-robofriend/static/css/2.eb45ad44.chunk.css.map",
     "static/css/main.ddb45eab.chunk.css.map": "/react-redux-robofriend/static/css/main.ddb45eab.chunk.css.map",
@@ -18,8 +18,8 @@
   "entrypoints": [
     "static/js/runtime-main.63cd0849.js",
     "static/css/2.eb45ad44.chunk.css",
-    "static/js/2.d8323dc2.chunk.js",
+    "static/js/2.fbad7c07.chunk.js",
     "static/css/main.ddb45eab.chunk.css",
-    "static/js/main.6a65d9ed.chunk.js"
+    "static/js/main.e6fc783a.chunk.js"
   ]
 }
